@@ -1,2 +1,4 @@
 //your JS code here. If required.
-document.body.innerHTML = DOM load success
+function domloaded() {
+	document.body.innerText = DOM load success
+}
